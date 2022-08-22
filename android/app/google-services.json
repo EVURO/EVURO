@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "18688854154",
+    "project_id": "evurodogwalker-fd619",
+    "storage_bucket": "evurodogwalker-fd619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18688854154:android:ecd3e7a20bbc1bbf800573",
+        "android_client_info": {
+          "package_name": "com.evurodogwalker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18688854154-4m2pv5j1erp3cpmvk7hthvimmbo1qn8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZrkdK-f2-aoU1Yl5PWNSj-rQf_c538Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18688854154-4m2pv5j1erp3cpmvk7hthvimmbo1qn8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "18688854154-v5u4ovju2potggfr32bso0c4oos2n523.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evurodogwalker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
