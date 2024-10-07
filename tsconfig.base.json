@@ -1,0 +1,26 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@evuro-frontend/assets": ["libs/assets/src/index.ts"],
+      "@evuro-frontend/db": ["libs/db/src/index.ts"],
+      "@evuro-frontend/hooks": ["libs/hooks/src/index.ts"],
+      "@evuro-frontend/store": ["libs/store/src/index.ts"],
+      "@evuro-frontend/validators": ["libs/validators/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}
