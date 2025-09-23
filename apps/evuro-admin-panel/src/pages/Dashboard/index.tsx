@@ -1,0 +1,11 @@
+export { default as Dashboard } from './Home';
+export { default as Product } from './Product';
+export { default as Categories } from './Categories';
+export { default as Order } from './Order';
+export { default as User } from './User';
+export { ChangePassword, EditProfile } from './Settings';
+export { OnBoarding, LaunchPad } from './AppSettings';
+export { Revenue } from './Imports';
+export { DogWalker, DogOwner } from './Complaints';
+export { default as OrderSummary } from './Order/OrderSummary';
+export { default as CustomerSummary } from './Order/CustomerSummary';
